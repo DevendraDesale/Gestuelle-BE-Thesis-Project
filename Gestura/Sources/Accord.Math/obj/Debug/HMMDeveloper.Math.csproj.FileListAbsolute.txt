@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Sources\Accord.Math\bin\Debug\Accord.Math.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Sources\Accord.Math\bin\Debug\Accord.Math.pdb
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Sources\Accord.Math\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Sources\Accord.Math\obj\Debug\Accord.Math.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Sources\Accord.Math\obj\Debug\Accord.Math.pdb
+I:\gesture with kide_malvika\Gestura\Sources\Accord.Math\bin\Debug\Accord.Math.dll
+I:\gesture with kide_malvika\Gestura\Sources\Accord.Math\bin\Debug\Accord.Math.pdb
+I:\gesture with kide_malvika\Gestura\Sources\Accord.Math\obj\Debug\ResolveAssemblyReference.cache
+I:\gesture with kide_malvika\Gestura\Sources\Accord.Math\obj\Debug\Accord.Math.dll
+I:\gesture with kide_malvika\Gestura\Sources\Accord.Math\obj\Debug\Accord.Math.pdb
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Sources\Accord.Math\bin\Debug\Accord.Math.dll
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Sources\Accord.Math\bin\Debug\Accord.Math.pdb
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Sources\Accord.Math\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Sources\Accord.Math\obj\Debug\Accord.Math.dll
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Sources\Accord.Math\obj\Debug\Accord.Math.pdb

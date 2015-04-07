@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Sources\Accord.Statistics.Controls\bin\Debug\Accord.Controls.Statistics.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Sources\Accord.Statistics.Controls\bin\Debug\Accord.Controls.Statistics.pdb
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Sources\Accord.Statistics.Controls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Sources\Accord.Statistics.Controls\obj\Debug\Accord.Controls.Statistics.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Sources\Accord.Statistics.Controls\obj\Debug\Accord.Controls.Statistics.pdb
+I:\gesture with kide_malvika\Gestura\Sources\Accord.Statistics.Controls\bin\Debug\Accord.Controls.Statistics.dll
+I:\gesture with kide_malvika\Gestura\Sources\Accord.Statistics.Controls\bin\Debug\Accord.Controls.Statistics.pdb
+I:\gesture with kide_malvika\Gestura\Sources\Accord.Statistics.Controls\obj\Debug\ResolveAssemblyReference.cache
+I:\gesture with kide_malvika\Gestura\Sources\Accord.Statistics.Controls\obj\Debug\Accord.Controls.Statistics.dll
+I:\gesture with kide_malvika\Gestura\Sources\Accord.Statistics.Controls\obj\Debug\Accord.Controls.Statistics.pdb
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Sources\Accord.Statistics.Controls\bin\Debug\Accord.Controls.Statistics.dll
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Sources\Accord.Statistics.Controls\bin\Debug\Accord.Controls.Statistics.pdb
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Sources\Accord.Statistics.Controls\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Sources\Accord.Statistics.Controls\obj\Debug\Accord.Controls.Statistics.dll
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Sources\Accord.Statistics.Controls\obj\Debug\Accord.Controls.Statistics.pdb

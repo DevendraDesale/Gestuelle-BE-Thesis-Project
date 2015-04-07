@@ -1,0 +1,15 @@
+C:\Documents and Settings\Malvika Bansal\Desktop\New Folder\DirectShowSamples-2010-February\Samples\Capture\DxSnap\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Malvika Bansal\Desktop\New Folder\DirectShowSamples-2010-February\Samples\Capture\DxSnap\obj\Debug\SnapShot.Form1.resources
+C:\Documents and Settings\Malvika Bansal\Desktop\New Folder\DirectShowSamples-2010-February\Samples\Capture\DxSnap\obj\Debug\DxSnap-2008.csproj.GenerateResource.Cache
+C:\Documents and Settings\Malvika Bansal\Desktop\New Folder\DirectShowSamples-2010-February\Samples\Capture\DxSnap\bin\Debug\SnapShot.exe
+C:\Documents and Settings\Malvika Bansal\Desktop\New Folder\DirectShowSamples-2010-February\Samples\Capture\DxSnap\bin\Debug\SnapShot.pdb
+C:\Documents and Settings\Malvika Bansal\Desktop\New Folder\DirectShowSamples-2010-February\Samples\Capture\DxSnap\bin\Debug\DirectShowLib-2005.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\New Folder\DirectShowSamples-2010-February\Samples\Capture\DxSnap\obj\Debug\SnapShot.exe
+C:\Documents and Settings\Malvika Bansal\Desktop\New Folder\DirectShowSamples-2010-February\Samples\Capture\DxSnap\obj\Debug\SnapShot.pdb
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\DxSnap\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\DxSnap\obj\Debug\SnapShot.Form1.resources
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\DxSnap\obj\Debug\DxSnap-2008.csproj.GenerateResource.Cache
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\DxSnap\obj\Debug\SnapShot.exe
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\DxSnap\bin\Debug\SnapShot.exe
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\DxSnap\bin\Debug\SnapShot.pdb
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\DxSnap\obj\Debug\SnapShot.pdb

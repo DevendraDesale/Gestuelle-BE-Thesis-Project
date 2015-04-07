@@ -1,0 +1,266 @@
+D:\Visual Studio 2008\Projects\Gestura\Gestura\bin\Debug\Gestura.exe
+D:\Visual Studio 2008\Projects\Gestura\Gestura\bin\Debug\Gestura.pdb
+D:\Visual Studio 2008\Projects\Gestura\Gestura\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\Gestura\Gestura\obj\Debug\Gestura.Properties.Resources.resources
+D:\Visual Studio 2008\Projects\Gestura\Gestura\obj\Debug\Gestura.csproj.GenerateResource.Cache
+D:\Visual Studio 2008\Projects\Gestura\Gestura\obj\Debug\Gestura.exe
+D:\Visual Studio 2008\Projects\Gestura\Gestura\obj\Debug\Gestura.pdb
+C:\Documents and Settings\Malvika Bansal\Desktop\Gestura\Gestura\obj\Debug\Gestura.exe
+C:\Documents and Settings\Malvika Bansal\Desktop\Gestura\Gestura\obj\Debug\Gestura.pdb
+C:\Documents and Settings\Malvika Bansal\Desktop\Gestura\Gestura\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Malvika Bansal\Desktop\Gestura\Gestura\obj\Debug\Gestura.Gestura.resources
+C:\Documents and Settings\Malvika Bansal\Desktop\Gestura\Gestura\obj\Debug\Gestura.Properties.Resources.resources
+C:\Documents and Settings\Malvika Bansal\Desktop\Gestura\Gestura\obj\Debug\Gestura.csproj.GenerateResource.Cache
+C:\Documents and Settings\Malvika Bansal\Desktop\Gestura\Gestura\bin\Debug\Gestura.exe
+C:\Documents and Settings\Malvika Bansal\Desktop\Gestura\Gestura\bin\Debug\Gestura.pdb
+C:\Documents and Settings\Malvika Bansal\Desktop\Gestura\Gestura\bin\Debug\DirectShowLib-2005.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\Gestura\Gestura\bin\Debug\DirectX.Capture.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\Gestura\Gestura\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\Gestura\Gestura\bin\Debug\Splicer.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\Gestura\Gestura\bin\Debug\DShowNET.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\Gestura\Gestura\bin\Debug\DShowNET.pdb
+C:\Documents and Settings\Malvika Bansal\Desktop\GESTUELLE\Gestura\Gestura\obj\Debug\Gestura.exe
+C:\Documents and Settings\Malvika Bansal\Desktop\GESTUELLE\Gestura\Gestura\obj\Debug\Gestura.pdb
+C:\Documents and Settings\Malvika Bansal\Desktop\GESTUELLE\Gestura\Gestura\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Malvika Bansal\Desktop\GESTUELLE\Gestura\Gestura\obj\Debug\Gestura.Gestura.resources
+C:\Documents and Settings\Malvika Bansal\Desktop\GESTUELLE\Gestura\Gestura\obj\Debug\Gestura.Properties.Resources.resources
+C:\Documents and Settings\Malvika Bansal\Desktop\GESTUELLE\Gestura\Gestura\obj\Debug\Gestura.csproj.GenerateResource.Cache
+C:\Documents and Settings\Malvika Bansal\Desktop\GESTUELLE\Gestura\Gestura\bin\Debug\Gestura.exe
+C:\Documents and Settings\Malvika Bansal\Desktop\GESTUELLE\Gestura\Gestura\bin\Debug\Gestura.pdb
+C:\Documents and Settings\Malvika Bansal\Desktop\GESTUELLE\Gestura\Gestura\bin\Debug\DirectShowLib-2005.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\GESTUELLE\Gestura\Gestura\bin\Debug\DirectX.Capture.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\GESTUELLE\Gestura\Gestura\bin\Debug\DShowNET.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\GESTUELLE\Gestura\Gestura\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\GESTUELLE\Gestura\Gestura\bin\Debug\Splicer.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\GESTUELLE\Gestura\Gestura\bin\Debug\DShowNET.pdb
+D:\Dropbox\Shared Stuff\Gestura\Gestura\obj\Debug\Gestura.exe
+D:\Dropbox\Shared Stuff\Gestura\Gestura\obj\Debug\Gestura.pdb
+D:\Dropbox\Shared Stuff\Gestura\Gestura\bin\Debug\Gestura.exe
+D:\Dropbox\Shared Stuff\Gestura\Gestura\bin\Debug\Gestura.pdb
+D:\Dropbox\Shared Stuff\Gestura\Gestura\bin\Debug\DirectShowLib-2005.dll
+D:\Dropbox\Shared Stuff\Gestura\Gestura\bin\Debug\DirectX.Capture.dll
+D:\Dropbox\Shared Stuff\Gestura\Gestura\bin\Debug\DShowNET.dll
+D:\Dropbox\Shared Stuff\Gestura\Gestura\bin\Debug\nunit.framework.dll
+D:\Dropbox\Shared Stuff\Gestura\Gestura\bin\Debug\Splicer.dll
+D:\Dropbox\Shared Stuff\Gestura\Gestura\bin\Debug\DShowNET.pdb
+D:\Dropbox\Shared Stuff\Gestura\Gestura\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Shared Stuff\Gestura\Gestura\obj\Debug\Gestura.Gestura.resources
+D:\Dropbox\Shared Stuff\Gestura\Gestura\obj\Debug\Gestura.Properties.Resources.resources
+D:\Dropbox\Shared Stuff\Gestura\Gestura\obj\Debug\Gestura.csproj.GenerateResource.Cache
+D:\Visual Studio 2008\Projects\Gestura\Gestura\bin\Debug\DirectShowLib-2005.dll
+D:\Visual Studio 2008\Projects\Gestura\Gestura\bin\Debug\DirectX.Capture.dll
+D:\Visual Studio 2008\Projects\Gestura\Gestura\bin\Debug\DShowNET.dll
+D:\Visual Studio 2008\Projects\Gestura\Gestura\bin\Debug\nunit.framework.dll
+D:\Visual Studio 2008\Projects\Gestura\Gestura\bin\Debug\Splicer.dll
+D:\Visual Studio 2008\Projects\Gestura\Gestura\bin\Debug\DShowNET.pdb
+D:\Visual Studio 2008\Projects\Gestura\Gestura\obj\Debug\Gestura.Gestura.resources
+C:\Users\Admin\Desktop\Project\Gestura\Gestura\obj\Debug\Gestura.exe
+C:\Users\Admin\Desktop\Project\Gestura\Gestura\obj\Debug\Gestura.pdb
+C:\Users\Admin\Desktop\Project\Gestura\Gestura\bin\Debug\Gestura.exe
+C:\Users\Admin\Desktop\Project\Gestura\Gestura\bin\Debug\Gestura.pdb
+C:\Users\Admin\Desktop\Project\Gestura\Gestura\bin\Debug\DirectShowLib-2005.dll
+C:\Users\Admin\Desktop\Project\Gestura\Gestura\bin\Debug\DirectX.Capture.dll
+C:\Users\Admin\Desktop\Project\Gestura\Gestura\bin\Debug\DShowNET.dll
+C:\Users\Admin\Desktop\Project\Gestura\Gestura\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Desktop\Project\Gestura\Gestura\bin\Debug\Splicer.dll
+C:\Users\Admin\Desktop\Project\Gestura\Gestura\bin\Debug\DShowNET.pdb
+C:\Users\Admin\Desktop\Project\Gestura\Gestura\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Project\Gestura\Gestura\obj\Debug\Gestura.Gestura.resources
+C:\Users\Admin\Desktop\Project\Gestura\Gestura\obj\Debug\Gestura.Properties.Resources.resources
+C:\Users\Admin\Desktop\Project\Gestura\Gestura\obj\Debug\Gestura.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Project\Gestura\Gestura\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Admin\Desktop\Project\Gestura\Gestura\obj\Debug\Gestura.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Project\Gestura\Gestura\bin\Debug\Interop.SpeechLib.dll
+C:\Users\Admin\Desktop\Project\Gestura\Gestura\obj\Debug\Gestura.DevMode.resources
+K:\19thMar_bkup\Project\Gestura\Gestura\obj\Debug\Interop.SpeechLib.dll
+K:\19thMar_bkup\Project\Gestura\Gestura\obj\Debug\Gestura.csproj.ResolveComReference.cache
+K:\19thMar_bkup\Project\Gestura\Gestura\obj\Debug\Gestura.exe
+K:\19thMar_bkup\Project\Gestura\Gestura\obj\Debug\Gestura.pdb
+C:\Users\Admin\Desktop\Project\gesture with kide\Gestura\Gestura\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Admin\Desktop\Project\gesture with kide\Gestura\Gestura\obj\Debug\Gestura.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Project\gesture with kide\Gestura\Gestura\obj\Debug\Gestura.exe
+C:\Users\Admin\Desktop\Project\gesture with kide\Gestura\Gestura\obj\Debug\Gestura.pdb
+C:\Users\Admin\Desktop\Project\gesture with kide\Gestura\Gestura\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Project\gesture with kide\Gestura\Gestura\obj\Debug\Gestura.DevMode.resources
+C:\Users\Admin\Desktop\Project\gesture with kide\Gestura\Gestura\obj\Debug\Gestura.Gestura.resources
+C:\Users\Admin\Desktop\Project\gesture with kide\Gestura\Gestura\obj\Debug\Gestura.Properties.Resources.resources
+C:\Users\Admin\Desktop\Project\gesture with kide\Gestura\Gestura\obj\Debug\Gestura.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Project\gesture with kide\Gestura\Gestura\bin\Debug\Gestura.exe
+C:\Users\Admin\Desktop\Project\gesture with kide\Gestura\Gestura\bin\Debug\Gestura.pdb
+C:\Users\Admin\Desktop\Project\gesture with kide\Gestura\Gestura\bin\Debug\DirectShowLib-2005.dll
+C:\Users\Admin\Desktop\Project\gesture with kide\Gestura\Gestura\bin\Debug\DirectX.Capture.dll
+C:\Users\Admin\Desktop\Project\gesture with kide\Gestura\Gestura\bin\Debug\DShowNET.dll
+C:\Users\Admin\Desktop\Project\gesture with kide\Gestura\Gestura\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Desktop\Project\gesture with kide\Gestura\Gestura\bin\Debug\Splicer.dll
+C:\Users\Admin\Desktop\Project\gesture with kide\Gestura\Gestura\bin\Debug\DShowNET.pdb
+C:\Users\Admin\Desktop\Project\gesture with kide\Gestura\Gestura\bin\Debug\Interop.SpeechLib.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\Gestura\obj\Debug\Gestura.csproj.ResolveComReference.cache
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\Gestura\obj\Debug\Gestura.exe
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\Gestura\obj\Debug\Gestura.pdb
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\Gestura\bin\Debug\Gestura.exe
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\Gestura\bin\Debug\Gestura.pdb
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\Gestura\bin\Debug\DirectShowLib-2005.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\Gestura\bin\Debug\DirectX.Capture.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\Gestura\bin\Debug\DShowNET.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\Gestura\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\Gestura\bin\Debug\Splicer.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\Gestura\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\Gestura\obj\Debug\Gestura.DevMode.resources
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\Gestura\obj\Debug\Gestura.Gestura.resources
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\Gestura\obj\Debug\Gestura.Properties.Resources.resources
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\Gestura\obj\Debug\Gestura.csproj.GenerateResource.Cache
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\Gestura\bin\Debug\DirectX.Capture.xml
+L:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Interop.SpeechLib.dll
+L:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.csproj.ResolveComReference.cache
+L:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.exe
+L:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.pdb
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.exe
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.pdb
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Gestura.exe
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Gestura.pdb
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\bin\Debug\DirectShowLib-2005.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\bin\Debug\DirectX.Capture.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\bin\Debug\DShowNET.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Splicer.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\bin\Debug\DirectX.Capture.xml
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Interop.SpeechLib.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.DevMode.resources
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Gestura.resources
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Properties.Resources.resources
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Tutorial.resources
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Interop.AMovie.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Interop.AMovie.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Instructions.resources
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Form1.resources
+J:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Interop.AMovie.dll
+J:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Interop.WMPLib.dll
+J:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\AxInterop.WMPLib.dll
+J:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.csproj.ResolveComReference.cache
+J:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.exe
+J:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.pdb
+J:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Gestura.exe
+J:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Gestura.pdb
+J:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\DirectShowLib-2005.dll
+J:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\DirectX.Capture.dll
+J:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\DShowNET.dll
+J:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\nunit.framework.dll
+J:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Splicer.dll
+J:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\DirectX.Capture.xml
+J:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Interop.AMovie.dll
+J:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Interop.WMPLib.dll
+J:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\AxInterop.WMPLib.dll
+J:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\ResolveAssemblyReference.cache
+J:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Form1.resources
+J:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Gestura.resources
+J:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Instructions.resources
+J:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Properties.Resources.resources
+J:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Tutorial.resources
+J:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Interop.AMovie.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.exe
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.pdb
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Gestura.exe
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Gestura.pdb
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\DirectShowLib-2005.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\DirectX.Capture.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\DShowNET.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Splicer.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\DirectX.Capture.xml
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Interop.AMovie.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Interop.SpeechLib.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Form1.resources
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Gestura.resources
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Instructions.resources
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Properties.Resources.resources
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Tutorial.resources
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Resources\example.xls
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Accord.Controls.Statistics.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Accord.Math.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Accord.Statistics.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\HMM.exe
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Accord.Math.pdb
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\HMM.pdb
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Accord.Controls.Statistics.pdb
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Accord.Statistics.pdb
+I:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Interop.AMovie.dll
+I:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Interop.WMPLib.dll
+I:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\AxInterop.WMPLib.dll
+I:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.csproj.ResolveComReference.cache
+I:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.exe
+I:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.pdb
+I:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Gestura.exe
+I:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Gestura.pdb
+I:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Accord.Controls.Statistics.dll
+I:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Accord.Math.dll
+I:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Accord.Statistics.dll
+I:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\DirectShowLib-2005.dll
+I:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\DirectX.Capture.dll
+I:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\DShowNET.dll
+I:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\HMM.exe
+I:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\nunit.framework.dll
+I:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Splicer.dll
+I:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Accord.Math.pdb
+I:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\HMM.pdb
+I:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Accord.Controls.Statistics.pdb
+I:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\DirectX.Capture.xml
+I:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Accord.Statistics.pdb
+I:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Interop.AMovie.dll
+I:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Interop.WMPLib.dll
+I:\gesture with kide_malvika\Gestura\Gestura\bin\Debug\AxInterop.WMPLib.dll
+I:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\ResolveAssemblyReference.cache
+I:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Form1.resources
+I:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Gestura.resources
+I:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Instructions.resources
+I:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Properties.Resources.resources
+I:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Tutorial.resources
+I:\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.csproj.GenerateResource.Cache
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Interop.AMovie.dll
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.csproj.ResolveComReference.cache
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.exe
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.pdb
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Gestura.exe
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Gestura.pdb
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Accord.Controls.Statistics.dll
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Accord.Math.dll
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Accord.Statistics.dll
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\DirectShowLib-2005.dll
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\DirectX.Capture.dll
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\DShowNET.dll
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\HMM.exe
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Splicer.dll
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Accord.Math.pdb
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\HMM.pdb
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Accord.Controls.Statistics.pdb
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\DirectX.Capture.xml
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Accord.Statistics.pdb
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Interop.AMovie.dll
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Form1.resources
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Gestura.resources
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Instructions.resources
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Properties.Resources.resources
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.Tutorial.resources
+C:\Documents and Settings\dev\Desktop\gesture with kide_malvika\Gestura\Gestura\obj\Debug\Gestura.csproj.GenerateResource.Cache

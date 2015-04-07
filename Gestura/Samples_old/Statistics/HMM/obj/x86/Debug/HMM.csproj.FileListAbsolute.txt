@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Samples\Statistics\HMM\bin\x86\Debug\Resources\example.xls
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Samples\Statistics\HMM\bin\x86\Debug\HMM.exe
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Samples\Statistics\HMM\bin\x86\Debug\HMM.pdb
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Samples\Statistics\HMM\bin\x86\Debug\Accord.Controls.Statistics.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Samples\Statistics\HMM\bin\x86\Debug\Accord.Math.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Samples\Statistics\HMM\bin\x86\Debug\Accord.Statistics.dll
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Samples\Statistics\HMM\bin\x86\Debug\Accord.Statistics.pdb
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Samples\Statistics\HMM\bin\x86\Debug\Accord.Math.pdb
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Samples\Statistics\HMM\bin\x86\Debug\Accord.Controls.Statistics.pdb
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Samples\Statistics\HMM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Samples\Statistics\HMM\obj\x86\Debug\Markov.MainForm.resources
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Samples\Statistics\HMM\obj\x86\Debug\HMM.Properties.Resources.resources
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Samples\Statistics\HMM\obj\x86\Debug\Components.TableSelectDialog.resources
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Samples\Statistics\HMM\obj\x86\Debug\HMM.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Samples\Statistics\HMM\obj\x86\Debug\HMM.exe
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Samples\Statistics\HMM\obj\x86\Debug\HMM.pdb
+C:\Users\Admin\Desktop\gesture with kide_malvika\Gestura\Samples\Statistics\HMM\obj\x86\Debug\Gestura.MainForm.resources

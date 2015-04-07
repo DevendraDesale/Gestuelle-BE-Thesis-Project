@@ -1,0 +1,57 @@
+E:\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\Resources\example.xls
+E:\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\HMM.exe
+E:\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\HMM.pdb
+E:\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\Accord.Controls.Statistics.dll
+E:\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\Accord.Math.dll
+E:\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\Accord.Statistics.dll
+E:\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\Accord.Statistics.pdb
+E:\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\Accord.Statistics.xml
+E:\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\Accord.Math.pdb
+E:\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\Accord.Math.xml
+E:\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\Accord.Controls.Statistics.pdb
+E:\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\Accord.Controls.Statistics.xml
+E:\accord-hmm-source\Samples\Statistics\HMM\obj\x86\Release\ResolveAssemblyReference.cache
+E:\accord-hmm-source\Samples\Statistics\HMM\obj\x86\Release\Markov.MainForm.resources
+E:\accord-hmm-source\Samples\Statistics\HMM\obj\x86\Release\HMM.Properties.Resources.resources
+E:\accord-hmm-source\Samples\Statistics\HMM\obj\x86\Release\Components.TableSelectDialog.resources
+E:\accord-hmm-source\Samples\Statistics\HMM\obj\x86\Release\HMM.csproj.GenerateResource.Cache
+E:\accord-hmm-source\Samples\Statistics\HMM\obj\x86\Release\HMM.exe
+E:\accord-hmm-source\Samples\Statistics\HMM\obj\x86\Release\HMM.pdb
+C:\Users\Admin\Desktop\accord-hmm-source\Samples\Statistics\HMM\obj\x86\Release\HMM.exe
+C:\Users\Admin\Desktop\accord-hmm-source\Samples\Statistics\HMM\obj\x86\Release\HMM.pdb
+C:\Users\Admin\Desktop\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\Resources\example.xls
+C:\Users\Admin\Desktop\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\HMM.exe
+C:\Users\Admin\Desktop\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\HMM.pdb
+C:\Users\Admin\Desktop\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\Accord.Controls.Statistics.dll
+C:\Users\Admin\Desktop\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\Accord.Math.dll
+C:\Users\Admin\Desktop\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\Accord.Statistics.dll
+C:\Users\Admin\Desktop\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\Accord.Statistics.pdb
+C:\Users\Admin\Desktop\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\Accord.Statistics.xml
+C:\Users\Admin\Desktop\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\Accord.Math.pdb
+C:\Users\Admin\Desktop\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\Accord.Math.xml
+C:\Users\Admin\Desktop\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\Accord.Controls.Statistics.pdb
+C:\Users\Admin\Desktop\accord-hmm-source\Samples\Statistics\HMM\bin\x86\Release\Accord.Controls.Statistics.xml
+C:\Users\Admin\Desktop\accord-hmm-source\Samples\Statistics\HMM\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\accord-hmm-source\Samples\Statistics\HMM\obj\x86\Release\Markov.MainForm.resources
+C:\Users\Admin\Desktop\accord-hmm-source\Samples\Statistics\HMM\obj\x86\Release\HMM.Properties.Resources.resources
+C:\Users\Admin\Desktop\accord-hmm-source\Samples\Statistics\HMM\obj\x86\Release\Components.TableSelectDialog.resources
+C:\Users\Admin\Desktop\accord-hmm-source\Samples\Statistics\HMM\obj\x86\Release\HMM.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Samples\Statistics\HMM\obj\x86\Release\HMM.exe
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Samples\Statistics\HMM\obj\x86\Release\HMM.pdb
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Samples\Statistics\HMM\bin\x86\Release\Resources\example.xls
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Samples\Statistics\HMM\bin\x86\Release\HMM.exe
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Samples\Statistics\HMM\bin\x86\Release\HMM.pdb
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Samples\Statistics\HMM\bin\x86\Release\Accord.Controls.Statistics.dll
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Samples\Statistics\HMM\bin\x86\Release\Accord.Math.dll
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Samples\Statistics\HMM\bin\x86\Release\Accord.Statistics.dll
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Samples\Statistics\HMM\bin\x86\Release\Accord.Statistics.pdb
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Samples\Statistics\HMM\bin\x86\Release\Accord.Statistics.xml
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Samples\Statistics\HMM\bin\x86\Release\Accord.Math.pdb
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Samples\Statistics\HMM\bin\x86\Release\Accord.Math.xml
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Samples\Statistics\HMM\bin\x86\Release\Accord.Controls.Statistics.pdb
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Samples\Statistics\HMM\bin\x86\Release\Accord.Controls.Statistics.xml
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Samples\Statistics\HMM\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Samples\Statistics\HMM\obj\x86\Release\Markov.MainForm.resources
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Samples\Statistics\HMM\obj\x86\Release\HMM.Properties.Resources.resources
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Samples\Statistics\HMM\obj\x86\Release\Components.TableSelectDialog.resources
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Samples\Statistics\HMM\obj\x86\Release\HMM.csproj.GenerateResource.Cache

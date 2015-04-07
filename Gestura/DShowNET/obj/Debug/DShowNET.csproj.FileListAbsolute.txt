@@ -1,0 +1,15 @@
+C:\Documents and Settings\Malvika Bansal\My Documents\Downloads\Compressed\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DShowNET\bin\Debug\DShowNET.dll
+C:\Documents and Settings\Malvika Bansal\My Documents\Downloads\Compressed\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DShowNET\bin\Debug\DShowNET.pdb
+C:\Documents and Settings\Malvika Bansal\My Documents\Downloads\Compressed\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DShowNET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Malvika Bansal\My Documents\Downloads\Compressed\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DShowNET\obj\Debug\DShowNET.dll
+C:\Documents and Settings\Malvika Bansal\My Documents\Downloads\Compressed\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DShowNET\obj\Debug\DShowNET.pdb
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\DShowNET\bin\Debug\DShowNET.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\DShowNET\bin\Debug\DShowNET.pdb
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\DShowNET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\DShowNET\obj\Debug\DShowNET.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\DShowNET\obj\Debug\DShowNET.pdb
+I:\gesture with kide_malvika\Gestura\DShowNET\bin\Debug\DShowNET.dll
+I:\gesture with kide_malvika\Gestura\DShowNET\bin\Debug\DShowNET.pdb
+I:\gesture with kide_malvika\Gestura\DShowNET\obj\Debug\ResolveAssemblyReference.cache
+I:\gesture with kide_malvika\Gestura\DShowNET\obj\Debug\DShowNET.dll
+I:\gesture with kide_malvika\Gestura\DShowNET\obj\Debug\DShowNET.pdb

@@ -1,0 +1,6 @@
+E:\accord-hmm-source\Release\Accord.Statistics.XML
+E:\accord-hmm-source\Release\Accord.Statistics.dll
+E:\accord-hmm-source\Release\Accord.Statistics.pdb
+E:\accord-hmm-source\Sources\Accord.Statistics\obj\Release\ResolveAssemblyReference.cache
+E:\accord-hmm-source\Sources\Accord.Statistics\obj\Release\Accord.Statistics.dll
+E:\accord-hmm-source\Sources\Accord.Statistics\obj\Release\Accord.Statistics.pdb

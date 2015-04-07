@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Release\Accord.Statistics.XML
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Release\Accord.Statistics.dll
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Release\Accord.Statistics.pdb
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Sources\Accord.Statistics\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Sources\Accord.Statistics\obj\Release\Accord.Statistics.dll
+C:\Users\Admin\Desktop\accord-hmm-source - Copy\Sources\Accord.Statistics\obj\Release\Accord.Statistics.pdb

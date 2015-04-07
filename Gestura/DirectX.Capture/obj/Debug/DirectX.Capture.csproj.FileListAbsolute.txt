@@ -1,0 +1,28 @@
+C:\Documents and Settings\Malvika Bansal\My Documents\Downloads\Compressed\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\DirectX.Capture\bin\Debug\DirectX.Capture.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\DirectX.Capture\bin\Debug\DirectX.Capture.pdb
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\DirectX.Capture\bin\Debug\DShowNET.pdb
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\DirectX.Capture\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\DirectX.Capture\obj\Debug\DirectX.Capture.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\DirectX.Capture\obj\Debug\DirectX.Capture.pdb
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\DirectX.Capture\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\DirectX.Capture\bin\Debug\Splicer.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\gesture with kide\Gestura\DirectX.Capture\bin\Debug\DirectShowLib-2005.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\DirectX.Capture\bin\Debug\DirectX.Capture.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\DirectX.Capture\bin\Debug\DirectX.Capture.pdb
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\DirectX.Capture\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\DirectX.Capture\bin\Debug\Splicer.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\DirectX.Capture\bin\Debug\DirectShowLib-2005.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\DirectX.Capture\bin\Debug\DShowNET.pdb
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\DirectX.Capture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\DirectX.Capture\obj\Debug\DirectX.Capture.dll
+C:\Users\Admin\Desktop\Project\gesture with kide_malvika\Gestura\DirectX.Capture\obj\Debug\DirectX.Capture.pdb
+I:\gesture with kide_malvika\Gestura\DirectX.Capture\bin\Debug\DirectX.Capture.dll
+I:\gesture with kide_malvika\Gestura\DirectX.Capture\bin\Debug\DirectX.Capture.pdb
+I:\gesture with kide_malvika\Gestura\DirectX.Capture\bin\Debug\nunit.framework.dll
+I:\gesture with kide_malvika\Gestura\DirectX.Capture\bin\Debug\Splicer.dll
+I:\gesture with kide_malvika\Gestura\DirectX.Capture\bin\Debug\DirectShowLib-2005.dll
+I:\gesture with kide_malvika\Gestura\DirectX.Capture\bin\Debug\DShowNET.pdb
+I:\gesture with kide_malvika\Gestura\DirectX.Capture\obj\Debug\ResolveAssemblyReference.cache
+I:\gesture with kide_malvika\Gestura\DirectX.Capture\obj\Debug\DirectX.Capture.dll
+I:\gesture with kide_malvika\Gestura\DirectX.Capture\obj\Debug\DirectX.Capture.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Malvika Bansal\Desktop\DirectXCapture_demo\DirectX.Capture\bin\Release\DirectX.Capture.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\DirectXCapture_demo\DirectX.Capture\bin\Release\DirectX.Capture.xml
+C:\Documents and Settings\Malvika Bansal\Desktop\DirectXCapture_demo\DirectX.Capture\bin\Release\DShowNET.dll
+C:\Documents and Settings\Malvika Bansal\Desktop\DirectXCapture_demo\DirectX.Capture\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Malvika Bansal\Desktop\DirectXCapture_demo\DirectX.Capture\obj\Release\DirectX.Capture.dll
